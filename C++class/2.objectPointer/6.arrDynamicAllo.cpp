@@ -10,7 +10,7 @@ int main(){
         return 0;
     }
 
-    int *p = new int [n];
+    int *p = new int [n];       //크기가 n인 정수형 배열의 동적 할당
 
     if(!p){
         cout << " Not allocating memory" << endl;
