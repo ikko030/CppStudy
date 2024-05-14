@@ -2,7 +2,7 @@
 1. [x] baisic pointer
 2. [x] class & object
 3. [x] obectPointer
-4. [ ] function & reference & copy constructor
+4. [x] function & reference & copy constructor
 5. [ ] function duplication & static member
 6. [ ] friend & operator duplication
 7. [ ] inheritance
